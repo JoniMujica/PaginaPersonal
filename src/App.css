@@ -27,6 +27,24 @@
 .App-link {
   color: #61dafb;
 }
+.listado li{
+  list-style: none;
+  color:orange;
+}
+.estilos{
+  border: 2px solid #0a0c91;
+  border-radius: 7px;
+}
+.estilos:focus { 
+  outline: none;
+  border-color: #89dad5;
+  box-shadow: 0 0 10px #9ecaed;
+}
+.eboton{
+  border-color: red;
+  border-radius: 5px;
+}
+
 
 @keyframes App-logo-spin {
   from {
