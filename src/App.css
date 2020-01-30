@@ -31,18 +31,24 @@
   list-style: none;
   color:orange;
 }
-.estilos{
-  border: 2px solid #0a0c91;
+.formudatos{
+  border: 2px solid #db5314;
   border-radius: 7px;
 }
-.estilos:focus { 
+.formudatos:focus { 
   outline: none;
-  border-color: #89dad5;
-  box-shadow: 0 0 10px #9ecaed;
+  border-color: #dd8c3f;
+  box-shadow: 0 0 10px #ca6637;
+}
+.ShowText{
+  display:none;
 }
 .eboton{
-  border-color: red;
-  border-radius: 5px;
+  border-color: rgb(9, 32, 163);
+  border-radius: 50px;
+  padding: 10px 100px 10px 100px;
+  background-color: green;
+  color:white;
 }
 
 
